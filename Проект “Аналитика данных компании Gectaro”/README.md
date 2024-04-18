@@ -14,11 +14,9 @@
 ## Используемые библиотеки
 * *pandas*
 * *Matplotlib*
-* *SciPy*
 * *Python*
 * *plotly.express*
 * *seaborn*
-* *проверка статистических гипотез*
 * *numpy*
 * *seaborn*
 * *ydata_profiling*
